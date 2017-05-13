@@ -22,7 +22,10 @@
 		<Item Name="LV Source" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="TYPE FGV User Event Method.ctl" Type="VI" URL="../../../../../Formazione_e_Tools/Labview/Manuali/Libri e corsi NI/Advanced-Architectures-in-LabVIEW/Advanced Architectures in LabVIEW/Exercises/Demonstrations/FGV for User Events/Type Defs/TYPE FGV User Event Method.ctl"/>
+			<Item Name="TYPE FGV User Event Ref.ctl" Type="VI" URL="../../../../../Formazione_e_Tools/Labview/Manuali/Libri e corsi NI/Advanced-Architectures-in-LabVIEW/Advanced Architectures in LabVIEW/Exercises/Demonstrations/FGV for User Events/Type Defs/TYPE FGV User Event Ref.ctl"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
